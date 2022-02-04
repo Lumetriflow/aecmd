@@ -10,10 +10,10 @@ C:\Program Files\Adobe\Adobe After Effects CC 2020\Support Files
 
 ## Usage
 Pre-requisites:-
-* Set the export options in After Effects as you normally would, and then..
+* Set the **export** options in After Effects as you normally would, and then..
 
-* Run the script
-* Enter First and Last frame number
-* Follow the instructions on your screen.
+ Run the script>>
+ enter First and Last frame number>>
+ follow the instructions on your screen.
 
 Video tutorial-
