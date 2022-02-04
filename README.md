@@ -11,6 +11,8 @@ C:\Program Files\Adobe\Adobe After Effects CC 2020\Support Files
 ## Usage
 Pre-requisites:-
 * Set the **export** options in After Effects as you normally would, and then..
+* Know the frame numbers for the first and last frames.
+* Know the name of the composition you want to render.
 
  Run the script>>
  enter First and Last frame number>>
