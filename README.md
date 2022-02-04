@@ -20,4 +20,4 @@ and then..
  enter First and Last frame number>>
  follow the instructions on your screen.
 
-Video tutorial-
+Video tutorial-https://www.youtube.com/watch?v=G-t2Bf7HMf0
